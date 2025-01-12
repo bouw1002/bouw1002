@@ -1,4 +1,13 @@
-## Hi there 👋
+## Interests
+- Digital signal processing
+- Funcrional programming (Haskell, Scala, Lisp)
+- Numerical methods
+- Artificial intelligence
+- FOSS
+- Linux
+- NixOS
+- Emacs
+- Neovim
 
 <!--
 **bouw1002/bouw1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
